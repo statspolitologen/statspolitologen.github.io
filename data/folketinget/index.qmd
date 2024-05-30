@@ -1,0 +1,7 @@
+---
+title: "FOLKETINGET"
+image: "image.jpg"
+date: "2024-05-27"
+---
+
+Lær mere om vores data om Folketinget.

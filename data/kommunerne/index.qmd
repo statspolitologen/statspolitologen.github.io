@@ -1,0 +1,10 @@
+---
+title: "KOMMUNERNE"
+date: "2024-05-27"
+---
+
+Lær mere om vores kommunale data her.
+
+![](thumbnail.jpg)
+
+Since this post doesn't specify an explicit `image`, the first image in the post will be used in the listing page of posts.

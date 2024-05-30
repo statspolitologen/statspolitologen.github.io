@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "STATSPOLITOLOGEN"
+  navbar:
+    right:
+      - analyser.qmd
+      - data.qmd
+      - text: "Om os"
+        menu: 
+          - text: "Hvem er vi?"
+            href: om_os.qmd
+          - text: "Holdet bag"
+            href: holdet_bag.qmd
+          - text: "Kontakt os"
+            href: kontakt_os.qmd
+
+  page-footer:
+    left: This page is built with [Quarto](https://quarto.org/).
+    center:
+      - href: https://www.linkedin.com/in/niels-frederik-lange/
+        icon: linkedin
+      - href: https://github.com/frederiklange
+        icon: github
+      - href: mailto:frederik.lange@hotmail.com
+        icon: envelope
+    right: Kontakt os
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
+ 

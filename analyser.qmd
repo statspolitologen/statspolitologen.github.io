@@ -1,0 +1,15 @@
+---
+title: "Analyser"
+subtitle: "Læs med nedenfor og bliv klogere på dansk politik"
+listing:
+  contents: analyser
+  sort: "date desc"
+  type: grid
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+

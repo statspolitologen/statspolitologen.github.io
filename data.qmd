@@ -1,0 +1,13 @@
+---
+title: "Data"
+subtitle: "Undersøger vores datakilder nærmere"
+listing:
+  contents: data
+  sort: "date desc"
+  type: grid
+  categories: false
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
