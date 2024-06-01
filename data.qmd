@@ -1,5 +1,5 @@
 ---
-title: "Data"
+title: "DATA"
 subtitle: "Undersøger vores datakilder nærmere"
 listing:
   contents: data

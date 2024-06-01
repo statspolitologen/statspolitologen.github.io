@@ -1,5 +1,5 @@
 ---
-title: "Statspolitologen"
+title: ""
 page-layout: full
 listing:
   - id: analyser
@@ -25,17 +25,17 @@ listing:
     feed: false
 ---
 
-## HER SKAL DER VÆRE NOGET TEKST OMKRING OS. VI KAN SELV BESTEMME, HVORDAN VI SKRIVER DET. MEN EN KORT VELKOMMEN-TEKST OG EN INDTRODUKTION AF PROJEKTET. DET MÅ GERNE FYLDE CA. EN SIDE, SÅ DER ER SKILDT AD FRA NÆSTE SEKTION.
 
+::: {.listing-block}
 # [Seneste analyser](analyser.qmd)
 
-:::{#analyser}
+:::{#analyser .center}
+:::
 :::
 
-# NYT KORT AFSNIT HER
-## DET KAN EVT. VÆRE ET NYHEDSBREV ELLER LIGNENDE, SOM MAN KAN TILMELDE SIG. DET MÅ VI LIGE UNDERSØGE. MEN VIL VÆRE PÆNT AT SKILLE DET AD FRA DET, SOM FØLGER NEDENFOR.
-
+::: {.listing-block}
 # [Lær mere om vores data](data.qmd)
 
 :::{#data}
+:::
 :::

@@ -5,7 +5,7 @@ date: "2024-05-27"
 categories: [news]
 ---
 
-This is the first post in a Quarto blog. Welcome!
+Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker. 
 
 ![](thumbnail.jpg)
 

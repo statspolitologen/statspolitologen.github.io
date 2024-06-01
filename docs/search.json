@@ -2,7 +2,7 @@
   {
     "objectID": "data.html",
     "href": "data.html",
-    "title": "Data",
+    "title": "DATA",
     "section": "",
     "text": "HØRINGER\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKOMMUNERNE\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
@@ -11,28 +11,35 @@
     "href": "data/kommunerne/index.html",
     "title": "KOMMUNERNE",
     "section": "",
-    "text": "Lær mere om vores kommunale data her.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "data/høringer/index.html",
     "href": "data/høringer/index.html",
     "title": "HØRINGER",
     "section": "",
-    "text": "Lær mere om vores høringsdata her.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
     "objectID": "analyser/welcome/index.html",
     "href": "analyser/welcome/index.html",
     "title": "Welcome To My Blog",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "analyser.html",
-    "href": "analyser.html",
-    "title": "Analyser",
+    "objectID": "analyser/post-with-code/index.html",
+    "href": "analyser/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Seneste analyser",
+    "section": "",
+    "text": "Seneste analyser\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLær mere om vores data\n\n\n\n\n\n\n\n\nHØRINGER\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKOMMUNERNE\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "holdet_bag.html",
@@ -42,18 +49,18 @@
     "text": "Vi er tre…\n\nFrederik Lange\nKort beskrivelse…\n\n\nMads Juul Sørensen\nKort beskrivelse…\n\n\nKarl-Emil Svenningsen Bendtsen\nKort beskrivelse…"
   },
   {
-    "objectID": "index.html#det-kan-evt.-være-et-nyhedsbrev-eller-lignende-som-man-kan-tilmelde-sig.-det-må-vi-lige-undersøge.-men-vil-være-pænt-at-skille-det-ad-fra-det-som-følger-nedenfor.",
-    "href": "index.html#det-kan-evt.-være-et-nyhedsbrev-eller-lignende-som-man-kan-tilmelde-sig.-det-må-vi-lige-undersøge.-men-vil-være-pænt-at-skille-det-ad-fra-det-som-følger-nedenfor.",
-    "title": "Statspolitologen",
-    "section": "DET KAN EVT. VÆRE ET NYHEDSBREV ELLER LIGNENDE, SOM MAN KAN TILMELDE SIG. DET MÅ VI LIGE UNDERSØGE. MEN VIL VÆRE PÆNT AT SKILLE DET AD FRA DET, SOM FØLGER NEDENFOR.",
-    "text": "DET KAN EVT. VÆRE ET NYHEDSBREV ELLER LIGNENDE, SOM MAN KAN TILMELDE SIG. DET MÅ VI LIGE UNDERSØGE. MEN VIL VÆRE PÆNT AT SKILLE DET AD FRA DET, SOM FØLGER NEDENFOR."
+    "objectID": "analyser.html",
+    "href": "analyser.html",
+    "title": "ANALYSER",
+    "section": "",
+    "text": "Dette er noget tekst, som indsættes før, at de forskellige artikler kan ses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "analyser/post-with-code/index.html",
-    "href": "analyser/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "analyser/folketinget/index.html",
+    "href": "analyser/folketinget/index.html",
+    "title": "FOLKETINGET",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker."
   },
   {
     "objectID": "kontakt_os.html",
@@ -67,7 +74,7 @@
     "href": "data/folketinget/index.html",
     "title": "FOLKETINGET",
     "section": "",
-    "text": "Lær mere om vores data om Folketinget."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker."
   },
   {
     "objectID": "om_os.html",

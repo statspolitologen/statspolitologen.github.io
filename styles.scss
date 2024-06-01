@@ -1,0 +1,139 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+// Colors
+$light-grey: #F5F5F5;
+$dark-grey: #474554;
+$light-blue: #D3E3FC;
+$blue: #77A6F7;
+$peach: #FFCCBC;
+$green: #00887A;
+
+// Base document colors
+$navbar-bg: $light-grey; // navbar
+$navbar-fg: $dark-grey; // navbar foreground elements
+$navbar-hl: $green; // highlight color when hovering over navbar links
+$body-bg: $light-grey; // page background 
+$body-color: $dark-grey; // page text 
+$footer-bg: $light-grey; // footer
+$link-color: $dark-grey; // hyperlinks 
+
+// Inline code
+$code-bg: $light-grey; // inline code background color
+$code-color: $green; // inline code text color
+
+// Code blocks
+$code-block-bg: $light-grey; // code block background color
+
+/*-- scss:rules --*/
+
+// Adjusting heading
+h1, h2 {
+  font-weight: 500; // Google fonts tells you which weights your chosen font family allows for!
+}
+
+// Adjusting the navbar
+.navbar {
+  font-size: 1em;
+  font-weight: 500;
+}
+
+.nav-item {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+// Adjusting apperance of links
+a:link { 
+  text-decoration: none; 
+} 
+
+a:visited { 
+  text-decoration: none; 
+} 
+
+a:hover { 
+  text-decoration: none;
+  color: $green;
+} 
+
+a:active { 
+  text-decoration: none;
+}
+
+// Footer
+.nav-footer {
+  font-size: 20px;
+}
+
+.nav-footer a:hover {
+  color: $green;
+}
+
+/*-- grid listing --*/
+
+.quarto-grid-item {
+  border: none;
+  background-color: $light-grey;
+}
+
+.quarto-grid-item.borderless {
+  border: none;
+  background-color: $light-grey;
+}
+
+.quarto-grid-item div.post-contents {
+  padding: 0;
+}
+
+.quarto-grid-item .card-title {
+  margin-top: 0.5em;
+  margin-bottom: 0.75em;
+  color: $dark-grey;
+}
+
+.card-body {
+  color: $dark-grey;
+}
+
+.quarto-grid-item .listing-categories {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: .5em;
+}
+
+.quarto-grid-item .listing-categories .listing-category {
+  color: $dark-grey;
+  border: solid 1px $dark-grey !important;
+  font-weight: 400;
+  font-size: .75em;
+}
+
+.quarto-grid-item .card-attribution {
+  font-weight: 300;
+  color: black;
+  flex-grow: 10;
+  align-items: flex-end;
+}
+
+.quarto-grid-item img.thumbnail-image {
+  object-fit: cover;
+  height: 188px !important;
+}
+
+// Front page adjustings
+.listing-block {
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-bottom: 1.1em; 
+  box-sizing: border-box;
+  border-bottom: 1px solid $dark-grey;
+}
+
+// Title banner
+// .quarto-title-banner {
+//   margin-bottom: 0.75em;
+//   background-color: $peach;
+// }

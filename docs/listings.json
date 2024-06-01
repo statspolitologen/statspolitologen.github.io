@@ -8,20 +8,22 @@
     ]
   },
   {
-    "listing": "/analyser.html",
-    "items": [
-      "/analyser/post-with-code/index.html",
-      "/analyser/welcome/index.html"
-    ]
-  },
-  {
     "listing": "/index.html",
     "items": [
       "/analyser/post-with-code/index.html",
+      "/analyser/folketinget/index.html",
       "/analyser/welcome/index.html",
       "/data/høringer/index.html",
       "/data/folketinget/index.html",
       "/data/kommunerne/index.html"
+    ]
+  },
+  {
+    "listing": "/analyser.html",
+    "items": [
+      "/analyser/post-with-code/index.html",
+      "/analyser/folketinget/index.html",
+      "/analyser/welcome/index.html"
     ]
   }
 ]

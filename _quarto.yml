@@ -8,7 +8,7 @@ website:
     right:
       - analyser.qmd
       - data.qmd
-      - text: "Om os"
+      - text: "OM OS"
         menu: 
           - text: "Hvem er vi?"
             href: om_os.qmd
@@ -18,7 +18,7 @@ website:
             href: kontakt_os.qmd
 
   page-footer:
-    left: This page is built with [Quarto](https://quarto.org/).
+    left: Copyright © Statspolitologen
     center:
       - href: https://www.linkedin.com/in/niels-frederik-lange/
         icon: linkedin
@@ -26,13 +26,11 @@ website:
         icon: github
       - href: mailto:frederik.lange@hotmail.com
         icon: envelope
-    right: Kontakt os
+    right: Vilkår og betingelser
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
-
-
-
- 
+    theme:
+      - cosmo
+      - styles.scss
+    mainfont: Roboto
