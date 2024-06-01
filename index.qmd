@@ -25,7 +25,6 @@ listing:
     feed: false
 ---
 
-
 ::: {.listing-block}
 # [Seneste analyser](analyser.qmd)
 
