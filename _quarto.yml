@@ -31,6 +31,5 @@ website:
 format:
   html:
     theme:
-      - cosmo
       - styles.scss
     mainfont: Roboto
