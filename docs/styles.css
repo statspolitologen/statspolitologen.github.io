@@ -1,0 +1,138 @@
+/* CSS THEME */
+
+/* GENEREAL SETTINGS */
+body {
+  background-color: #FAF9F6;
+}
+
+p {
+  color: black;
+}
+
+h1 {
+  color: black;
+}
+
+a {
+  color: black;
+}
+
+.subtitle {
+  font-weight: 400;
+}
+
+.btn {
+  border: 2px solid black;
+  border-radius: 8px;
+  color: #FAF9F6;
+  background-color: black;
+}
+
+.btn:hover {
+  border: 2px solid black;
+  border-radius: 8px;
+  color: black;
+  background-color: #FAF9F6;
+}
+
+/* NAVBAR SETTINGS */
+.navbar {
+  background-color: #FAF9F6;
+}
+
+.nav-item {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  color: black;
+}
+
+.navbar-title {
+  font-size: 1rem;
+  font-weight: 500;
+  color: black;
+}
+
+.navbar-brand .navbar-title:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.menu-text {
+  font-size: 0.9rem;
+  font-weight: 400;
+  color: black;
+}
+
+.navbar-nav .nav-link:hover {
+  text-decoration: underline;
+  color: black;
+}
+
+.navbar-nav .show>.nav-link, .navbar-nav .active>.nav-link, .navbar-nav .nav-link.active {
+  text-decoration: underline;
+  color: black;
+}
+
+/* CARDS SETTINGS */
+.quarto-grid-item {
+  border: none;
+  background-color: #FAF9F6;
+}
+
+.quarto-grid-item.borderless {
+  border: none;
+  background-color: #FAF9F6;
+}
+
+.quarto-grid-item div.post-contents {
+  padding: 0;
+  color: black;
+}
+
+.card-body {
+  color: black;
+}
+
+.quarto-grid-item .card-attribution {
+  color: black;
+  flex-grow: 10;
+  align-items: flex-end;
+}
+
+.quarto-grid-item .card-title {
+  margin-top: 0.5em;
+  margin-bottom: 0.75em;
+  color: black;
+}
+
+.quarto-grid-item .listing-categories {
+  display: flex;
+  flex-wrap: wrap;
+  padding-bottom: .5em;
+  color: black;
+}
+
+.quarto-grid-item img.thumbnail-image {
+  object-fit: cover;
+  height: 350px !important;
+}
+
+/* KONTAKT SETTINGS */
+#get-in-touch h1 {
+  font-size: 3rem;
+}
+
+/* FOOTER SETTINGS */
+.nav-footer {
+  background-color: #FAF9F6;
+}
+
+.nav-footer a {
+  text-decoration: none;
+  color: black;
+}
+
+.nav-footer a:hover {
+  text-decoration: underline;
+}
+

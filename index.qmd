@@ -1,6 +1,6 @@
 ---
 title: ""
-page-layout: custom
+page-layout: full
 listing:
   - id: analyser
     contents: 
@@ -10,31 +10,12 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    max-items: 3
-    feed: false
-
-  - id: data
-    contents:
-    - data
-    sort: "date desc"
-    type: grid
-    categories: false
-    sort-ui: false
-    filter-ui: false
-    max-items: 3
+    max-items: 6
     feed: false
 ---
 
-::: {.listing-block}
-# [Seneste analyser](analyser.qmd)
+Velkommen til **Statspolitologen**. Et nyt projekt, som sigter mod at levere analyser og data om dansk politik. Vi trækker på metoder fra data science til at kortlægge og analysere den politiske data, som i stigende grad er tilgængelig om vores samfund.
 
-:::{#analyser .center}
-:::
-:::
-
-::: {.listing-block}
-# [Lær mere om vores data](data.qmd)
-
-:::{#data}
-:::
+# Seneste analyser
+::: {#analyser}
 :::

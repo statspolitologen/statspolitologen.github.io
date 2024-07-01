@@ -8,28 +8,15 @@ website:
     right:
       - analyser.qmd
       - data.qmd
-      - text: "OM OS"
-        menu: 
-          - text: "Hvem er vi?"
-            href: om_os.qmd
-          - text: "Holdet bag"
-            href: holdet_bag.qmd
-          - text: "Kontakt os"
-            href: kontakt_os.qmd
+      - projektet.qmd
+      - text: Kontakt
+        href: kontakt.qmd
 
   page-footer:
-    left: Copyright © Statspolitologen
-    center:
-      - href: https://www.linkedin.com/in/niels-frederik-lange/
-        icon: linkedin
-      - href: https://github.com/frederiklange
-        icon: github
-      - href: mailto:frederik.lange@hotmail.com
-        icon: envelope
-    right: Vilkår og betingelser
+    center: © Statspolitologen | [Kontakt](/kontakt.qmd)
 
 format:
   html:
-    theme:
-      - styles.scss
+    theme: cosmo
+    css: styles.css
     mainfont: Roboto

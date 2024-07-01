@@ -2,23 +2,16 @@
   {
     "objectID": "data.html",
     "href": "data.html",
-    "title": "DATA",
+    "title": "Data",
     "section": "",
-    "text": "HØRINGER\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKOMMUNERNE\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "HØRINGER\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFolketinget\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKOMMUNERNE\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "data/kommunerne/index.html",
-    "href": "data/kommunerne/index.html",
-    "title": "KOMMUNERNE",
+    "objectID": "data/folketinget/index.html",
+    "href": "data/folketinget/index.html",
+    "title": "Folketinget",
     "section": "",
-    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "data/høringer/index.html",
-    "href": "data/høringer/index.html",
-    "title": "HØRINGER",
-    "section": "",
-    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker."
   },
   {
     "objectID": "analyser/welcome/index.html",
@@ -39,69 +32,69 @@
     "href": "index.html",
     "title": "Seneste analyser",
     "section": "",
-    "text": "Seneste analyser\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nLær mere om vores data\n\n\n\n\n\n\n\n\nHØRINGER\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nKOMMUNERNE\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Velkommen til Statspolitologen. Et nyt projekt, som sigter mod at levere analyser og data om dansk politik. Vi trækker på metoder fra data science til at kortlægge og analysere den politiske data, som i stigende grad er tilgængelig om vores samfund.\n\nSeneste analyser\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFolketinget\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "holdet_bag.html",
-    "href": "holdet_bag.html",
-    "title": "Holdet bag",
+    "objectID": "kontakt.html",
+    "href": "kontakt.html",
+    "title": "Get In Touch",
     "section": "",
-    "text": "Vi er tre…\n\nFrederik Lange\nKort beskrivelse…\n\n\nMads Juul Sørensen\nKort beskrivelse…\n\n\nKarl-Emil Svenningsen Bendtsen\nKort beskrivelse…"
+    "text": "Get In Touch\nHvis du har nogle spørgsmål eller henvendelser, så tøv endelig ikke med at kontakte os!\nKontakt"
+  },
+  {
+    "objectID": "projektet.html",
+    "href": "projektet.html",
+    "title": "Projektet",
+    "section": "",
+    "text": "Vi stræber efter at lave dybdegående analyser, som bygger på evidensbaseret forskning og avanceret dataanalyse. Samtidig ønsker vi at samle og tilgængelig gøre data om dansk politik. Formålet er at skabe en platform, hvor studerende, journalister, foskerer og borgere med en politisk interesse nemt kan få adgang til data om og analyser af dansk politik med henblik på at fremme en nuanceret debat."
+  },
+  {
+    "objectID": "projektet.html#frederik-lange",
+    "href": "projektet.html#frederik-lange",
+    "title": "Projektet",
+    "section": "Frederik Lange",
+    "text": "Frederik Lange\nBillede og beskrivelse."
+  },
+  {
+    "objectID": "projektet.html#mads-juul-sørensen",
+    "href": "projektet.html#mads-juul-sørensen",
+    "title": "Projektet",
+    "section": "Mads Juul Sørensen",
+    "text": "Mads Juul Sørensen\nBillede og beskrivelse."
+  },
+  {
+    "objectID": "projektet.html#karl-emil-svenningsen-bendtsen",
+    "href": "projektet.html#karl-emil-svenningsen-bendtsen",
+    "title": "Projektet",
+    "section": "Karl-Emil Svenningsen Bendtsen",
+    "text": "Karl-Emil Svenningsen Bendtsen\nBillede og beskrivelse."
   },
   {
     "objectID": "analyser.html",
     "href": "analyser.html",
-    "title": "ANALYSER",
+    "title": "Analyser",
     "section": "",
-    "text": "Dette er noget tekst, som indsættes før, at de forskellige artikler kan ses.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFOLKETINGET\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nHarlow Malloc\n\n\nMay 30, 2024\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFolketinget\n\n\n\n\n\n\n\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nTristan O’Malley\n\n\nMay 27, 2024\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "analyser/folketinget/index.html",
     "href": "analyser/folketinget/index.html",
-    "title": "FOLKETINGET",
+    "title": "Folketinget",
     "section": "",
     "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker."
   },
   {
-    "objectID": "kontakt_os.html",
-    "href": "kontakt_os.html",
-    "title": "Har du spørgsmål?",
+    "objectID": "data/høringer/index.html",
+    "href": "data/høringer/index.html",
+    "title": "HØRINGER",
     "section": "",
-    "text": "Tag fat i os"
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "data/folketinget/index.html",
-    "href": "data/folketinget/index.html",
-    "title": "FOLKETINGET",
+    "objectID": "data/kommunerne/index.html",
+    "href": "data/kommunerne/index.html",
+    "title": "KOMMUNERNE",
     "section": "",
-    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker."
-  },
-  {
-    "objectID": "om_os.html",
-    "href": "om_os.html",
-    "title": "Statspolitologen",
-    "section": "",
-    "text": "Velkommen til Statspolitologen, hvor du kan finde analyser og data om dansk politik. Vi stræber efter at lave dybdegående analyser, som bygger på…"
-  },
-  {
-    "objectID": "om_os.html#hvad-er-vores-mål",
-    "href": "om_os.html#hvad-er-vores-mål",
-    "title": "Statspolitologen",
-    "section": "Hvad er vores mål?",
-    "text": "Hvad er vores mål?\nFormålet er…"
-  },
-  {
-    "objectID": "om_os.html#hvad-tilbyder-vi",
-    "href": "om_os.html#hvad-tilbyder-vi",
-    "title": "Statspolitologen",
-    "section": "Hvad tilbyder vi?",
-    "text": "Hvad tilbyder vi?\nVores målgruppe…"
-  },
-  {
-    "objectID": "om_os.html#hvordan-kan-du-kontakte-os",
-    "href": "om_os.html#hvordan-kan-du-kontakte-os",
-    "title": "Statspolitologen",
-    "section": "Hvordan kan du kontakte os?",
-    "text": "Hvordan kan du kontakte os?\nSe her."
+    "text": "Lær mere om vores data om Folketinget. Hvordan ændrer det her sig, når jeg skriver mere tekst. Det er ikke helt klart for mig, hvad der sker.\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

@@ -1,6 +1,6 @@
 ---
-title: "DATA"
-subtitle: "Undersøger vores datakilder nærmere"
+title: "Data"
+subtitle: "Beskrivelse af vores primære datakilder. Kontakt os, hvis du vil høre mere om vores data."
 listing:
   contents: data
   sort: "date desc"
@@ -9,5 +9,5 @@ listing:
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---

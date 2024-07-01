@@ -1,8 +1,0 @@
----
-title: "Har du spørgsmål?"
-page-layout: full
-sidebar: false
-toc: false
-title-block-banner: true
----
-# Tag fat i os

@@ -1,5 +1,5 @@
 ---
-title: "FOLKETINGET"
+title: "Folketinget"
 image: "image.jpg"
 date: "2024-05-27"
 ---

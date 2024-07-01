@@ -1,0 +1,15 @@
+---
+title: ""
+image: false
+about:
+  template: jolla
+sidebar: false
+toc: false
+title-block-banner: false
+---
+# Get In Touch
+Hvis du har nogle spørgsmål eller henvendelser, så tøv endelig ikke med at kontakte os!
+
+[Kontakt](mailto:frederik.lange@hotmail.com){.btn .btn-outline-primary}
+
+

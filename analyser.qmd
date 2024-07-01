@@ -1,15 +1,14 @@
 ---
-title: "ANALYSER"
-subtitle: "Læs med nedenfor og bliv klogere på dansk politik"
+title: "Analyser"
+subtitle: "Læs vores analyser nedenfor og bliver klogere på dansk politik."
 listing:
   contents: analyser
   sort: "date desc"
   type: grid
-  categories: true
+  categories: false
   sort-ui: false
   filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---
-Dette er noget tekst, som indsættes før, at de forskellige artikler kan ses. 
 
